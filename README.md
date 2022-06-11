@@ -41,6 +41,7 @@ Pre-requisites:
     - https://inssein.com/aws-cloud9-vs-code-remote/
     - https://globaldatanet.com/tech-blog/how-to-access-aws-cloud9-ide-from-vscode
     - https://aws.amazon.com/blogs/architecture/field-notes-use-aws-cloud9-to-power-your-visual-studio-code-ide/
+    (the last guide assumes you also have [aws cli](https://aws.amazon.com/cli/) installed, and you have ran `aws configure`)
 - allow SSH
 - (assuming it is Ubuntu) import ssh keys from GitHub `ssh-import-id-gh fabricesemti80`
 - ensure instance does not shut down while connected
